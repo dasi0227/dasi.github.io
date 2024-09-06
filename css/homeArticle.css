@@ -1,1 +1,18 @@
-#recent-posts>.recent-post-item>.recent-post-info>.content{opacity:.9;line-height:1.5;transition:all .2s}#recent-posts>.recent-post-item:hover .recent-post-info .content{opacity:1;line-height:2;font-size:120%;transition:all .2s}#recent-posts>.recent-post-item>.recent-post-info>.article-title{font-size:30px}
+/* 默认 */
+#recent-posts>.recent-post-item>.recent-post-info>.content {
+  opacity: 0.9;
+  line-height: 1.5;
+  transition: all .2s;
+}
+/* 鼠标悬停 */
+#recent-posts>.recent-post-item:hover .recent-post-info .content {
+  
+  opacity: 1; /* 透明度改变 */
+  line-height: 2; /* 行高改变 */
+  font-size: 120%; /* 字体大小改变 */
+  transition: all .2s;
+}
+
+#recent-posts>.recent-post-item>.recent-post-info>.article-title {
+  font-size: 30px
+}

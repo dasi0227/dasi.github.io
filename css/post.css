@@ -1,1 +1,37 @@
-#post-info{text-align:center}#post-info>.post-title{font-size:80px}#page-header.post-bg::before{backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}#article-container>h2{font-size:40px}#article-container>h3{font-size:30px}#article-container>h4{font-size:20px}#article-container>h5{font-size:15px}#card-toc>.toc-content{font-size:20px}#card-toc>.item-headline{font-size:25px}
+/* 文章标题 */
+#post-info {
+  text-align: center;
+}
+#post-info>.post-title{
+  font-size: 80px;
+}
+
+/* 顶部图模糊 */
+#page-header.post-bg::before{
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* 各级标题大小 */
+#article-container > h2 {
+  font-size: 40px;
+}
+#article-container > h3 {
+  font-size: 30px;
+}
+#article-container > h4 {
+  font-size: 20px;
+}
+#article-container > h5 {
+  font-size: 15px;
+}
+
+/* 目录字体 */
+#card-toc>.toc-content{
+  font-size: 20px;
+}
+#card-toc>.item-headline{
+  font-size: 25px;
+}
+
+
