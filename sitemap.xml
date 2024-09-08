@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dasi.net.cn/link/</loc>
+    
+    <lastmod>2024-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.net.cn/posts/ac615d30/</loc>
+    
+    <lastmod>2024-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.net.cn/posts/a242eea0/</loc>
     
     <lastmod>2024-09-08</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://dasi.net.cn/posts/b7ba4348/</loc>
-    
-    <lastmod>2024-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.net.cn/posts/ac615d30/</loc>
     
     <lastmod>2024-09-08</lastmod>
     
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://dasi.net.cn/tags/</loc>
-    
-    <lastmod>2024-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.net.cn/link/</loc>
     
     <lastmod>2024-09-05</lastmod>
     
