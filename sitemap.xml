@@ -417,6 +417,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.net.cn/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <lastmod>2024-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.net.cn/tags/%E9%94%90%E8%AF%84/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -424,7 +431,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.net.cn/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://dasi.net.cn/tags/JavaScript/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -445,6 +452,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.net.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.net.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -452,14 +466,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.net.cn/tags/JavaScript/</loc>
-    <lastmod>2024-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.net.cn/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://dasi.net.cn/tags/hexo/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -474,13 +481,6 @@
   
   <url>
     <loc>https://dasi.net.cn/tags/VSCode/</loc>
-    <lastmod>2024-09-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.net.cn/tags/hexo/</loc>
     <lastmod>2024-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
